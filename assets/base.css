@@ -4037,3 +4037,6 @@ text-component {
     font-size: max(1rem, 100%);
   }
 }
+
+
+.announcement-bar__slider { background:red; }
